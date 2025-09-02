@@ -1,8 +1,8 @@
-# SortInc Library README
+# Sortinc Library README
 
-# **SortInc** ![C++](https://img.shields.io/badge/language-C++-blue) ![Header-Only](https://img.shields.io/badge/header-only-brightgreen)
+# **Sortinc** ![C++](https://img.shields.io/badge/language-C-blue) ![Header-Only](https://img.shields.io/badge/header-only-brightgreen)
 
-**SortInc** is a **header-only C/C++ library** that provides a collection of popular sorting algorithms. It is easy to integrate into any project—simply include the header file, and you’re ready to sort arrays with a variety of algorithms. No compilation, no extra dependencies.
+**Sortinc** is a **header-only C/C++ library** that provides a collection of popular sorting algorithms. It is easy to integrate into any project—simply include the header file, and you’re ready to sort arrays with a variety of algorithms. No compilation, no extra dependencies.
 
 ---
 
