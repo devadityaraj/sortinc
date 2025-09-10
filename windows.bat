@@ -3,7 +3,7 @@ setlocal
 
 REM --- Configuration ---
 set "INSTALL_DIR=C:\MinGW\include"
-set "HEADER_FILE=sortinc.h"
+set "HEADER_FILE=sort.h"
 
 REM --- Check if file exists ---
 if not exist "%HEADER_FILE%" (
@@ -33,7 +33,7 @@ if errorlevel 1 (
 echo Installation successful!
 echo.
 echo To use the library, simply include it in your C code:
-echo #include ^<sortinc.h^>
+echo #include ^<sort.h^>
 echo.
 echo Then compile your program as usual:
 echo cl your_program.c /I "%INSTALL_DIR%" /Fe:your_program.exe
