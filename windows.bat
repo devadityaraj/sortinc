@@ -2,7 +2,7 @@
 setlocal
 
 REM --- Configuration ---
-set "INSTALL_DIR=C:\Include"
+set "INSTALL_DIR=C:\MinGW\include"
 set "HEADER_FILE=sort.h"
 
 REM --- Check if file exists ---
